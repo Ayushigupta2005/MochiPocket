@@ -1,0 +1,33 @@
+# MochiPocket Git Ignore Configuration
+
+# Compiled binaries and execution files
+MochiPocket.exe
+*.exe
+*.o
+*.a
+*.dll
+*.so
+*.dylib
+
+# Local User Database (Privacy First - never commit your actual financial data!)
+data/wallet.json
+data/*.json
+
+# IDE settings and configurations
+.vscode/
+.idea/
+*.suo
+*.user
+*.userossc
+*.sln
+*.vcxproj
+*.filters
+
+# Log files and crash dumps
+*.log
+CrashDump/
+
+# OS-specific files
+Thumbs.db
+desktop.ini
+.DS_Store
