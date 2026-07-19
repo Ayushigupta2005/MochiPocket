@@ -1,10 +1,9 @@
 # MochiPocket 🍡
-
-MochiPocket is a cozy, offline-first desktop personal finance manager built in Modern C++ using the Raylib GUI rendering library. 
+MochiPocket is a cozy, offline-first desktop personal finance manager built in Modern C++ using the Raylib graphics library.
 <p align="center">
-   <img width="988" height="740" alt="Screenshot 2026-07-19 203307" src="https://github.com/user-attachments/assets/1d868822-8b32-467e-8ab0-e8350f005a6e" />
+   <img width="80%" alt="Screenshot 2026-07-19 203307" src="https://github.com/user-attachments/assets/1d868822-8b32-467e-8ab0-e8350f005a6e" />
 </p>
-Manage expenses, budgets, savings goals, and analytics while collecting animated Mochi companions.
+Track expenses, manage budgets, monitor savings goals, and visualize spending trends while collecting animated Mochi companions that react to your financial habits.
 
 ## 🛠 Tech Stack
 
@@ -31,10 +30,10 @@ The codebase follows standard modular organization:
 
 ## 📷 More Screenshots
 <p align = "center">
-<img width="25%"  alt="Screenshot 2026-07-19 203317" src="https://github.com/user-attachments/assets/7e1abb19-68dd-4763-996b-82cfd3d67515" />
-<img width="25%"  alt="Screenshot 2026-07-19 203324" src="https://github.com/user-attachments/assets/a0f91beb-1260-4cc1-ad54-a8251dcc3d9f" />
-<img width="25%"  alt="Screenshot 2026-07-19 203333" src="https://github.com/user-attachments/assets/8174d5f7-a419-4195-8d48-b8432892f479" />
-<img width="25%"  alt="Screenshot 2026-07-19 203340" src="https://github.com/user-attachments/assets/298198ca-188c-4e81-80f0-5e2f983239b7" />
+<img width="48%"  alt="Screenshot 2026-07-19 203317" src="https://github.com/user-attachments/assets/7e1abb19-68dd-4763-996b-82cfd3d67515" />
+<img width="48%"  alt="Screenshot 2026-07-19 203324" src="https://github.com/user-attachments/assets/a0f91beb-1260-4cc1-ad54-a8251dcc3d9f" />
+<img width="48%"  alt="Screenshot 2026-07-19 203333" src="https://github.com/user-attachments/assets/8174d5f7-a419-4195-8d48-b8432892f479" />
+<img width="48%"  alt="Screenshot 2026-07-19 203340" src="https://github.com/user-attachments/assets/298198ca-188c-4e81-80f0-5e2f983239b7" />
 </p>
 
 ## ⚙️ How to Compile & Run (Windows)
